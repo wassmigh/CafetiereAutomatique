@@ -65,6 +65,7 @@ Ce projet vise à concevoir un **système de contrôle intelligent pour une cafe
 - ✅ Présentation + rapport final
 
 ## 📽️ Démo & Présentation
+[Enregistrement de l'écran 2025-05-17 020501.zip](https://github.com/user-attachments/files/20260398/Enregistrement.de.l.ecran.2025-05-17.020501.zip)
 
 <video controls src="Enregistrement de l'écran 2025-05-17 020501.mp4" title="Title"></video>
 
