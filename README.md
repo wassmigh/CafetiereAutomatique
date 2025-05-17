@@ -42,7 +42,7 @@ Ce projet vise à concevoir un **système de contrôle intelligent pour une cafe
 - Refroidissement activé automatiquement en cas de surchauffe
 
 ### 📉 Réapprovisionnement automatique
-- Capteurs de niveau (café/lait)
+- Capteurs de niveau (café/lait) (répresentés par des potentiomètre en isis)
 - Si seuil atteint : LED rouge + buzzer + désactivation interface
 
 ### 🧠 Sauvegarde des seuils
@@ -68,8 +68,6 @@ Ce projet vise à concevoir un **système de contrôle intelligent pour une cafe
 
 <video controls src="Enregistrement de l'écran 2025-05-17 020501.mp4" title="Title"></video>
 
-**Année universitaire** : 2024–2025  
-**Niveau** : FISE1  
-**Encadré par** : [Nom du professeur]  
+
 
 
